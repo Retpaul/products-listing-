@@ -1,0 +1,304 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Classic T-Shirt",
+      "description": "A classic t-shirt made from 100% cotton.",
+      "price": 19.99,
+      "image": "https://media.istockphoto.com/id/1354823135/photo/violet-t-shirt-template-men-isolated-on-white-tee-shirt-blank-as-design-mockup-front-view.jpg?s=612x612&w=0&k=20&c=dX1TzAmOTLkop_woCseR2jysOBzgqWVupfLx3RTlfks=",
+      "category": "Clothing",
+      "stock": 50,
+      "sizes": ["S", "M", "L", "XL"]
+    },
+    {
+      "id": 2,
+      "name": "Vintage Sunglasses",
+      "description": "Stylish vintage sunglasses with UV protection.",
+      "price": 29.99,
+      "image": "https://media.istockphoto.com/id/1492202363/photo/sunglasses-with-turquoise-and-black-frame-pattern.jpg?s=612x612&w=0&k=20&c=_Q0Vq-ppwiqx8reji0ouh9lmm1De4w12XCrtXpovPX4=",
+      "category": "Accessories",
+      "stock": 30,
+      "sizes": ["One Size"]
+    },
+    {
+      "id": 3,
+      "name": "Leather Wallet",
+      "description": "Premium leather wallet with multiple card slots.",
+      "price": 49.99,
+      "image": "https://media.istockphoto.com/id/180756294/photo/wallet.jpg?s=612x612&w=0&k=20&c=sc6I6KsEbiv9Y4BtKji8w5rBYono2X63-ipfhYk6Ytg=",
+      "category": "Accessories",
+      "stock": 20,
+      "sizes": ["One Size"]
+    },
+    {
+      "id": 4,
+      "name": "Running Shoes",
+      "description": "Comfortable and lightweight running shoes.",
+      "price": 79.99,
+      "image": "https://media.istockphoto.com/id/1688015574/photo/white-sneaker-isolated-on-white-background.webp?b=1&s=170667a&w=0&k=20&c=4s7FvqwHAhtIYcGXyMwQ3AzE-CNHPXh4Yt1xb7qlVMM=",
+      "category": "Footwear",
+      "stock": 40,
+      "sizes": ["7", "8", "9", "10", "11"]
+    },
+    {
+      "id": 5,
+      "name": "Smartwatch",
+      "description": "Feature-packed smartwatch with fitness tracking.",
+      "price": 199.99,
+      "image": "https://media.istockphoto.com/id/970026374/photo/smart-watch-with-pastel-pink-color-leather-wristband-isolated-on-white-background.jpg?s=612x612&w=0&k=20&c=umeZTLUr9xgzcJe3mmaYP0f5Yf0XAY6ZrhT_SoSadlA=",
+      "category": "Electronics",
+      "stock": 25,
+      "sizes": ["One Size"]
+    },
+    {
+      "id": 6,
+      "name": "Backpack",
+      "description": "Durable and spacious backpack for everyday use.",
+      "price": 59.99,
+      "image": "https://media.istockphoto.com/id/1984624137/photo/gray-fabric-backpack-isolated-on-a-white-background-accessories-fashion-design-object.jpg?s=612x612&w=0&k=20&c=AUPrI4kE-FD0s1WWcG6jnuoyHZPNdqKVmyFBOrOpQsQ=",
+      "category": "Bags",
+      "stock": 35,
+      "sizes": ["One Size"]
+    },
+    {
+      "id": 7,
+      "name": "Wireless Earbuds",
+      "description": "High-quality wireless earbuds with noise cancellation.",
+      "price": 129.99,
+      "image": "https://media.istockphoto.com/id/1830748183/photo/bluetooth-earbuds-isolated-on-white-background.jpg?s=612x612&w=0&k=20&c=0M5YW0pMMBjxYmLkX7rEw-5obzBYLfL0vWT_I29bOHA=",
+      "category": "Electronics",
+      "stock": 45,
+      "sizes": ["One Size"]
+    },
+    {
+      "id": 8,
+      "name": "Denim Jacket",
+      "description": "Stylish denim jacket for casual wear.",
+      "price": 89.99,
+      "image": "https://media.istockphoto.com/id/177431827/photo/a-blue-jean-jacket-with-extended-arm-on-a-white-background.jpg?s=612x612&w=0&k=20&c=irIsfre2YzCTLsDJSGYV2Y2tWeJqF0t6IDyHPTBGY5g=",
+      "category": "Clothing",
+      "stock": 15,
+      "sizes": ["S", "M", "L", "XL"]
+    },
+    {
+      "id": 9,
+      "name": "Yoga Mat",
+      "description": "Eco-friendly yoga mat with excellent grip.",
+      "price": 39.99,
+      "image": "https://media.istockphoto.com/id/1480021027/vector/isolated-yoga-mat-for-gym-vector-pilates-clipart.jpg?s=612x612&w=0&k=20&c=0ccpbC4XOh5qm337RnFA1CiTUYs4p5ifjILKXDs_MJ8=",
+      "category": "Fitness",
+      "stock": 20,
+      "sizes": ["One Size"]
+    },
+    {
+      "id": 10,
+      "name": "Bluetooth Speaker",
+      "description": "Portable Bluetooth speaker with powerful sound.",
+      "price": 59.99,
+      "image": "https://media.istockphoto.com/id/1059154330/photo/boombox.jpg?s=612x612&w=0&k=20&c=AYwVrPpREeFXXP0j8rC8R3eF_9WUVghBXPndGqZYSJw=",
+      "category": "Electronics",
+      "stock": 50,
+      "sizes": ["One Size"]
+    },
+    {
+      "id": 11,
+      "name": "Fitness Tracker",
+      "description": "Track your fitness with this stylish tracker.",
+      "price": 99.99,
+      "image": "https://media.istockphoto.com/id/1345812741/photo/white-fitness-tracker.jpg?s=612x612&w=0&k=20&c=JrVEAtnY50pnVtUN_gG4hEExZlOP606kQ7XWTEItzkM=",
+      "category": "Electronics",
+      "stock": 30,
+      "sizes": ["One Size"]
+    },
+    {
+      "id": 12,
+      "name": "Cotton Shorts",
+      "description": "Comfortable cotton shorts for casual wear.",
+      "price": 24.99,
+      "image": "https://media.istockphoto.com/id/1237985231/photo/shorts.jpg?s=612x612&w=0&k=20&c=O-52YF684BxeC8EGHu9I68ujBzaPuukYnJrcjshmKb4=",
+      "category": "Clothing",
+      "stock": 60,
+      "sizes": ["S", "M", "L", "XL"]
+    },
+    {
+      "id": 13,
+      "name": "Office Chair",
+      "description": "Ergonomic office chair with lumbar support.",
+      "price": 149.99,
+      "image": "https://media.istockphoto.com/id/1494645344/photo/office-chair.jpg?s=612x612&w=0&k=20&c=OUyEsanEcyMaL_PLCMZ5fuglBQK_-j6zhDh5Lxox-1s=",
+      "category": "Furniture",
+      "stock": 15,
+      "sizes": ["One Size"]
+    },
+    {
+      "id": 14,
+      "name": "Coffee Maker",
+      "description": "Brew your favorite coffee with ease.",
+      "price": 89.99,
+      "image": "https://media.istockphoto.com/id/183419534/photo/coffee-maker-with-clipping-path.jpg?s=612x612&w=0&k=20&c=ulR-O5NFbu1n_5aYvKTOO4ZP8XV7zm1_aEU4loIggm8=",
+      "category": "Home Appliances",
+      "stock": 25,
+      "sizes": ["One Size"]
+    },
+    {
+      "id": 15,
+      "name": "Linen Shirt",
+      "description": "Breathable linen shirt perfect for summer.",
+      "price": 29.99,
+      "image": "https://media.istockphoto.com/id/1373292562/photo/long-sleeved-collared-white-shirt-isolated-on-white-background.jpg?s=612x612&w=0&k=20&c=6lyG81A0TQAJRuIqV7Amr458kD50nBNNrj7mh2vDTt4=",
+      "category": "Clothing",
+      "stock": 40,
+      "sizes": ["S", "M", "L", "XL"]
+    },
+    {
+      "id": 16,
+      "name": "Wireless Mouse",
+      "description": "Ergonomic wireless mouse with fast scrolling.",
+      "price": 39.99,
+      "image": "https://media.istockphoto.com/id/1276967174/photo/mouse-wireless-on-white-background-computer-mouse-isolated-on-white-background-computer-mouse.jpg?s=612x612&w=0&k=20&c=T4F0wsPwCVgE1DNu5tEZxB_eWq3B1ZIxtz4pxGHr_HM=",
+      "category": "Electronics",
+      "stock": 100,
+      "sizes": ["One Size"]
+    },
+    {
+      "id": 17,
+      "name": "Desk Lamp",
+      "description": "LED desk lamp with adjustable brightness.",
+      "price": 19.99,
+      "image": "https://media.istockphoto.com/id/1398642201/photo/desk-lamp.jpg?s=612x612&w=0&k=20&c=1zMwXliVyBhhBbrwcMZqCoLrfyC8WabaIXZmiLaat5E=",
+      "category": "Home Decor",
+      "stock": 45,
+      "sizes": ["One Size"]
+    },
+    {
+      "id": 18,
+      "name": "Graphic Tee",
+      "description": "Trendy graphic tee with unique design.",
+      "price": 22.99,
+      "image": "https://media.istockphoto.com/id/2159663327/vector/abstract-graffiti-paintbrush-drips-and-spraypaint-splatters-black-and-white-seamless-pattern.jpg?s=612x612&w=0&k=20&c=-ay8tUe22MAsgOS2F17IqyfS1piQ9TULnAQlejks20w=",
+      "category": "Clothing",
+      "stock": 55,
+      "sizes": ["S", "M", "L", "XL"]
+    },
+    {
+      "id": 19,
+      "name": "Laptop Stand",
+      "description": "Adjustable laptop stand for better ergonomics.",
+      "price": 34.99,
+      "image": "https://media.istockphoto.com/id/1457961412/photo/laptop-isolated-on-white-background-with-two-clipping-paths-included-realistic-3d-render.jpg?s=612x612&w=0&k=20&c=6PkxFa_8LkRdY-YES1O6xjr1sDYTyTn-c8JqXEreE10=",
+      "category": "Office Supplies",
+      "stock": 30,
+      "sizes": ["One Size"]
+    },
+    {
+      "id": 20,
+      "name": "Water Bottle",
+      "description": "Stainless steel water bottle, 1 liter.",
+      "price": 14.99,
+      "image": "https://media.istockphoto.com/id/1789083024/photo/white-gray-and-black-thermos-bottles-aluminium-thermos-bottle-on-white-background-3d.jpg?s=612x612&w=0&k=20&c=OpeGFxGxUpTT_0X7wdJTjowiOJkDWe7nwc4L0poFAmc=",
+      "category": "Fitness",
+      "stock": 80,
+      "sizes": ["One Size"]
+    },
+    {
+      "id": 21,
+      "name": "Headphones",
+      "description": "Noise-cancelling over-ear headphones.",
+      "price": 149.99,
+      "image": "https://media.istockphoto.com/id/1422851316/vector/3d-white-realistic-headphones-isolated-on-white-background-vector-illustration.jpg?s=612x612&w=0&k=20&c=MVbeXLM9X6jh4P9C3DYmA4FP-Ctqjpl4U7tqvEgv7rg=",
+      "category": "Electronics",
+      "stock": 40,
+      "sizes": ["One Size"]
+    },
+    {
+      "id": 22,
+      "name": "Hiking Boots",
+      "description": "Durable hiking boots for all terrains.",
+      "price": 99.99,
+      "image": "https://media.istockphoto.com/id/134406993/photo/hiking-boots.jpg?s=612x612&w=0&k=20&c=UALsbOnzUgM3yE51R2ESTr4YdTi0C7sQrYomfRv76r8=",
+      "category": "Footwear",
+      "stock": 25,
+      "sizes": ["7", "8", "9", "10", "11"]
+    },
+    {
+      "id": 23,
+      "name": "Cooking Pan",
+      "description": "Non-stick cooking pan, 12 inches.",
+      "price": 29.99,
+      "image": "https://media.istockphoto.com/id/184879752/photo/stainless-steel-pan.jpg?s=612x612&w=0&k=20&c=IEsN0zSOvjRuWJZcPylBT6qjIbrnq4NBuopoAQoVI9o=",
+      "category": "Kitchen",
+      "stock": 60,
+      "sizes": ["One Size"]
+    },
+    {
+      "id": 24,
+      "name": "Travel Mug",
+      "description": "Insulated travel mug, 16 oz.",
+      "price": 19.99,
+      "image": "https://media.istockphoto.com/id/1300522257/photo/reusable-coffee-cup.jpg?s=612x612&w=0&k=20&c=pkXDYAQHvj-u83xBDPY47oUvFb7S9eM7M5TGbsYZm6Y=",
+      "category": "Kitchen",
+      "stock": 70,
+      "sizes": ["One Size"]
+    },
+    {
+      "id": 25,
+      "name": "Desk Organizer",
+      "description": "Multi-compartment desk organizer.",
+      "price": 14.99,
+      "image": "https://images.unsplash.com/photo-1573878733165-1fddec1ab2b5",
+      "category": "Office Supplies",
+      "stock": 50,
+      "sizes": ["One Size"]
+    },
+    {
+      "id": 26,
+      "name": "Canvas Shoes",
+      "description": "Comfortable canvas shoes for everyday wear.",
+      "price": 39.99,
+      "image": "https://images.unsplash.com/photo-1517472160065-6acf3aee3c54",
+      "category": "Footwear",
+      "stock": 35,
+      "sizes": ["7", "8", "9", "10", "11"]
+    },
+    {
+      "id": 27,
+      "name": "Bluetooth Keyboard",
+      "description": "Slim Bluetooth keyboard for multiple devices.",
+      "price": 49.99,
+      "image": "https://images.unsplash.com/photo-1573495612937-b94c0a3c3c35",
+      "category": "Electronics",
+      "stock": 30,
+      "sizes": ["One Size"]
+    },
+    {
+      "id": 28,
+      "name": "Sneakers",
+      "description": "Fashionable sneakers for all occasions.",
+      "price": 69.99,
+      "image": "https://images.unsplash.com/photo-1518893883801-4e14cb822e58",
+      "category": "Footwear",
+      "stock": 45,
+      "sizes": ["7", "8", "9", "10", "11"]
+    },
+    {
+      "id": 29,
+      "name": "Wireless Charger",
+      "description": "Fast wireless charger for smartphones.",
+      "price": 29.99,
+      "image": "https://images.unsplash.com/photo-1557512223-374dc57b7d4c",
+      "category": "Electronics",
+      "stock": 40,
+      "sizes": ["One Size"]
+    },
+    {
+      "id": 30,
+      "name": "Gaming Mouse",
+      "description": "High-precision gaming mouse with RGB lighting.",
+      "price": 59.99,
+      "image": "https://images.unsplash.com/photo-1610465290895-5796b15c7f8d",
+      "category": "Electronics",
+      "stock": 25,
+      "sizes": ["One Size"]
+    }
+  ]
+}

@@ -15,3 +15,13 @@ export function loginValidation(user) {
   });
   return schema.validate(user);
 }
+export function productValidation(product) {
+  const schema = Joi.object({
+    name: Joi.string().min(3).required(),
+    description: Joi.string().min(5).required(),
+    description: Joi.string().min(5).required(),
+    price: Joi.string().min(2).required(),
+    imageUrl: Joi.string().min(5).required(),
+  });
+  return schema.validate(product);
+}
